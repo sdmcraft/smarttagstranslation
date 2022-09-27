@@ -1,7 +1,7 @@
 # Smart Tags Translation (Using Azure Cognitive Services for Translation)
 
 ## Introduction
-This example AEM Cloud Services  project provides a custom workflow step for translating [AEM Assets Image Smart Tags](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html?lang=en) to a desired language using [Azure Conginitive Services for translation](https://azure.microsoft.com/en-us/products/cognitive-services/translator/#features).
+This example AEM Cloud Services  project provides a custom workflow step for translating [AEM Assets Image Smart Tags](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html?lang=en) to a desired language using [Azure Congnitive Services for translation](https://azure.microsoft.com/en-us/products/cognitive-services/translator/#features).
 
 ## Pre-requisites
 1. An AEM Cloud Services instance with custom code deployment permissions.
