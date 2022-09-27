@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:description="This process will translate smart tags of assets."
+    jcr:primaryType="cq:Component"
+    jcr:title="Translate Smart Tag"
+    sling:resourceSuperType="cq/workflow/components/model/process"
+    abbreviation="\0"
+    allowedParents="[*/parsys]"
+    componentGroup="Workflow"/>
